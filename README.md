@@ -13,12 +13,7 @@ I work in cybersecurity fields especially penetration testings and security audi
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Pentest
 - 👯 I’m looking to collaborate on everything 🤣
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 - 😄 Pronouns: he/him
 - 📚 My Blog
-- 💬 Ask me about ...
-
--->
 
 ----
