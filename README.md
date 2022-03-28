@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Hamdi Sevben
 
-<!--
-**h4md153v63n/h4md153v63n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://bit.ly/3Lj3FEd)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://bit.ly/3hXDWV6)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://bit.ly/3wJAhTH)
+[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](https://bit.ly/34uRgNA)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://bit.ly/3hUvENM)
 
-Here are some ideas to get you started:
+I work in cybersecurity fields especially penetration testings and security audits. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can work under the gun, and attention to the details. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🔭 I’m currently working on Cyber Security
+- 🌱 I’m currently learning Pentest
+- 👯 I’m looking to collaborate on everything 🤣
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- 📚 My Blog
+- 💬 Ask me about ...
 -->
+
+----
