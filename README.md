@@ -18,6 +18,7 @@ I work in cybersecurity fields especially penetration testings and security audi
 - 😄 Pronouns: he/him
 - 📚 My Blog
 - 💬 Ask me about ...
+
 -->
 
 ----
