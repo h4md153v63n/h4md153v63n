@@ -8,7 +8,7 @@
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://bit.ly/3hUvENM)
 [<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://bit.ly/3wJAhTH)
 
-I work in cybersecurity fields especially penetration testings and security audits. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can work under the gun, and attention to the details. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+I work in cybersecurity fields especially penetration testings and security audits. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can work under the pressure, and attention to the details. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
 
 - 🔭 I’m currently working on Cyber Security
