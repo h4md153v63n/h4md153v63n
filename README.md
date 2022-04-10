@@ -1,5 +1,6 @@
 ### Hi, I'm Hamdi Sevben
 
+[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://bit.ly/3JNmXkK)
 [<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://bit.ly/3Lj3FEd)
@@ -18,9 +19,6 @@ I work in cybersecurity fields especially penetration testings and security audi
 - 👯 I’m looking to collaborate on everything 🤣
 - 😄 Pronouns: he/him
 - 📚 My Blog
-
-**Also you find me on:**
-[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 
 ----
 
