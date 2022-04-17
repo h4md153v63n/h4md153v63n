@@ -26,7 +26,3 @@ I work in cybersecurity fields especially penetration testings and security audi
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-
-#<!-- Feel free to reach out and introduce yourself :D-->
-#<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so #if you want to be my friend, feel free to <a href="https://twitter.com/h4md153v63n">reach out</a> and introduce yourself (don’t just say hi, tell me about #yourself)</b> 😊 </em>
-#</p>
