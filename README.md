@@ -3,7 +3,7 @@
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://bit.ly/3JNmXkK)
-[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://bit.ly/3Lj3FEd)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://bit.ly/394wuGt)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://bit.ly/3hXDWV6)
 [<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](https://bit.ly/34uRgNA)
 [<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://bit.ly/3wJAhTH)
