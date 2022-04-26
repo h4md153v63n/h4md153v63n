@@ -1,7 +1,6 @@
 
 <tr> 
           ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
-          
 </tr>
 
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
@@ -32,10 +31,8 @@ I work in cybersecurity fields especially penetration testings and security audi
 ----
                  
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=h4md153v63n&theme=green-blue">
 
-----
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
