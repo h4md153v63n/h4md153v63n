@@ -1,6 +1,6 @@
 
 <tr> 
-          ⬇️⬇️⬇️ <b>Tum Linkler</b> ⬇️⬇️⬇️
+          ⬇️⬇️⬇️ <b>All Links</b> ⬇️⬇️⬇️
 </tr>
 
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
