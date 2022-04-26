@@ -1,16 +1,3 @@
-### Hi, I'm Hamdi Sevben
-
-I work in cybersecurity fields especially penetration testings and security audits. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can work under the pressure, and attention to the details. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
-
-- 👋 Hi, I’m Hamdi (@h4md153v63n)
-- 🔭 I’m currently working on Cyber Security
-- 🌱 I’m interested in InfoSec, CTFs, Pentests, Vulnerability Assessments, and more.
-- 💞️ I’m looking to learn more about Hacking.
-- 😄 Pronouns: he/him
-- 📚 My Blog
-- 📫 How to reach me: @h4md153v63n on Twitter.
-
-----
 
 <tr> 
           ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
@@ -26,6 +13,20 @@ I work in cybersecurity fields especially penetration testings and security audi
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://bit.ly/3hUvENM)
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://bit.ly/35Ypzh5)
 [<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://bit.ly/3juH37D)
+
+----
+
+### Hi, I'm Hamdi Sevben
+
+I work in cybersecurity fields especially penetration testings and security audits. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can work under the pressure, and attention to the details. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+
+- 👋 Hi, I’m Hamdi (@h4md153v63n)
+- 🔭 I’m currently working on Cyber Security
+- 🌱 I’m interested in InfoSec, CTFs, Pentests, Vulnerability Assessments, and more.
+- 💞️ I’m looking to learn more about Hacking.
+- 😄 Pronouns: he/him
+- 📚 My Blog
+- 📫 How to reach me: @h4md153v63n on Twitter.
 
 ----
                  
