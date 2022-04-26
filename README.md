@@ -32,7 +32,7 @@ I work in cybersecurity fields especially penetration testings and security audi
                  
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=h4md153v63n&theme=green-blue">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=h4md153v63n&theme=blue-green">
 
 
 <p align="right">
