@@ -18,7 +18,7 @@
 
 ### Hi, I'm Hamdi Sevben
 
-I work in cybersecurity fields especially penetration testings and security audits. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can work under the pressure, and attention to the details. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+I work in cybersecurity fields especially penetration testings and security audits. In addition, I am self-motivated and continuous learner. I am gritty and willing to be challenged in order to improve more pentest and security skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
 - 👋 Hi, I’m Hamdi (@h4md153v63n)
 - 🔭 I’m currently working on Cyber Security
