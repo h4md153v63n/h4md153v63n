@@ -25,7 +25,7 @@ My mantra is no fear no regrets: https://youtu.be/U7B13H7ebao + https://youtu.be
 
 - 👋 Hi, I’m Hamdi (@h4md153v63n)
 - 🔭 I’m currently working on Cyber Security
-- 🌱 I’m interested in InfoSec, CTFs, Pentests, Vulnerability Assessments, and more.
+- 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
 - 💞️ I’m looking to learn more about Hacking.
 - 😄 Pronouns: he/him
 - 📚 My Blog
