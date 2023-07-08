@@ -21,6 +21,17 @@
 
 I work in cybersecurity fields, especially penetration testings, security audits and vulnerability assessments. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can pay attention to the details under the pressure. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
+
+- 👋 Hi, I’m Hamdi (@h4md153v63n)
+- 🔭 I’m currently working on Cyber Security
+- 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
+- 💞️ I’m looking to learn more about Hacking.
+- 😄 Pronouns: he/him
+- 📚 My Blog
+- 📫 How to reach me: @h4md153v63n on Twitter.
+
+----
+
 My Life Philosophy:
 - ░M░u░s░c░l░e░ ░M░e░m░o░r░y░: Big War - Brain & Mind & Grit & Willpower
 - If you're going through hell, keep going. - Winston Churchill
@@ -31,16 +42,7 @@ My Life Philosophy:
 - A thousand days of training to develop, ten thousand days of training to polish. You must examine all this well. - Miyamoto Musashi in his book, A Book of Five Rings: The Classic Guide to Strategy
 - My mantra is no fear no regrets: https://youtu.be/U7B13H7ebao + https://youtu.be/Oqek9Ktuwy8
 
-  
-- 👋 Hi, I’m Hamdi (@h4md153v63n)
-- 🔭 I’m currently working on Cyber Security
-- 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
-- 💞️ I’m looking to learn more about Hacking.
-- 😄 Pronouns: he/him
-- 📚 My Blog
-- 📫 How to reach me: @h4md153v63n on Twitter.
-
-----
+---
                  
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
 
