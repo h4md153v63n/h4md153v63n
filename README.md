@@ -40,6 +40,7 @@ My Life Mantras & Philosophy:
 - If you put 10,000 hours of practice into something, you can become an expert. Practice o makes perfect. 
 - I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. - Bruce Lee
 - A thousand days of training to develop, ten thousand days of training to polish. You must examine all this well. - Miyamoto Musashi in his book, A Book of Five Rings: The Classic Guide to Strategy
+- "He will win who knows when to fight and when not to fight." - Sun Tzu: Art of War
 - No fear no regrets: https://youtu.be/U7B13H7ebao + https://youtu.be/Oqek9Ktuwy8
 
 ---
