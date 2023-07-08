@@ -32,15 +32,15 @@ I work in cybersecurity fields, especially penetration testings, security audits
 
 ----
 
-My Life Philosophy:
-- ░M░u░s░c░l░e░ ░M░e░m░o░r░y░: Big War - Brain & Mind & Grit & Willpower
+My Life Mantras & Philosophy:
+- Muscle Memory: Big War - Brain & Mind & Grit & Willpower
 - If you're going through hell, keep going. - Winston Churchill
 - "What most people call hell, he calls home." - Rambo
 - What doesn’t kill you, makes you stronger. - German philosopher Friedrich Nietzsche
 - If you put 10,000 hours of practice into something, you can become an expert. Practice o makes perfect. 
 - I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. - Bruce Lee
 - A thousand days of training to develop, ten thousand days of training to polish. You must examine all this well. - Miyamoto Musashi in his book, A Book of Five Rings: The Classic Guide to Strategy
-- My mantra is no fear no regrets: https://youtu.be/U7B13H7ebao + https://youtu.be/Oqek9Ktuwy8
+- No fear no regrets: https://youtu.be/U7B13H7ebao + https://youtu.be/Oqek9Ktuwy8
 
 ---
                  
