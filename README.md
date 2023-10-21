@@ -1,7 +1,7 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 ---
 <tr> 
-          ⬇️⬇️⬇️ <b>All Links</b> ⬇️⬇️⬇️
+          ⬇️⬇️⬇️ <b>**All Links:**</b> ⬇️⬇️⬇️
 </tr>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
@@ -32,7 +32,7 @@ I work in cybersecurity fields, especially penetration testings, security audits
 
 ----
 
-My Life Mantras & Philosophy:
+**My Life Mantras & Philosophy:**
 - Muscle Memory: Big War - Brain & Mind & Grit & Willpower
 - If you're going through hell, keep going. - Winston Churchill
 - "What most people call hell, he calls home." - Rambo
