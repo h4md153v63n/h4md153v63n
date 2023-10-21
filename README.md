@@ -4,7 +4,6 @@
           ⬇️⬇️⬇️ <b>All Links</b> ⬇️⬇️⬇️
 </tr>
 
-[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://bit.ly/3JNmXkK)
 [<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://bit.ly/394wuGt)
@@ -14,6 +13,7 @@
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://bit.ly/3hUvENM)
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://bit.ly/35Ypzh5)
 [<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://bit.ly/3juH37D)
+[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 
 ----
 
