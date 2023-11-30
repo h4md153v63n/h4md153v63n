@@ -1,7 +1,7 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 ---
 <tr> 
-          ⬇️⬇️⬇️ <b>All Links:</b> ⬇️⬇️⬇️
+          ⬇️⬇️⬇️ <b>📫 How to reach me:</b> ⬇️⬇️⬇️
 </tr>
 
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
@@ -28,7 +28,6 @@ I work in cybersecurity fields, especially penetration testings, security audits
 - 💞️ I’m looking to learn more about Hacking.
 - 😄 Pronouns: he/him
 - 📚 My Blog
-- 📫 How to reach me: @h4md153v63n on Twitter.
 
 ----
                  
