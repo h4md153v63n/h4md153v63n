@@ -34,6 +34,7 @@ I work in cybersecurity fields, especially penetration testings, security audits
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=h4md153v63n.h4md153v63n)                 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=h4md153v63n&theme=chartreuse-dark&show_icons=true">
 
