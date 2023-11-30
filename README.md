@@ -21,7 +21,6 @@
 
 I work in cybersecurity fields, especially penetration testings, security audits and vulnerability assessments. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can pay attention to the details under the pressure. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
-
 - 👋 Hi, I’m Hamdi (@h4md153v63n)
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
@@ -31,12 +30,11 @@ I work in cybersecurity fields, especially penetration testings, security audits
 
 ----
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](https://github.com/h4md153v63n)
 
 ![](https://komarev.com/ghpvc/?username=h4md153v63n&color=green)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 <p align="right">
-          
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
