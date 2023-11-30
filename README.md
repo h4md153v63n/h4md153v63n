@@ -32,8 +32,6 @@ I work in cybersecurity fields, especially penetration testings, security audits
 
 ----
            
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=h4md153v63n&theme=chartreuse-dark&show_icons=true">
 
 <p align="right">
