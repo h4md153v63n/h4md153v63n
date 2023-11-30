@@ -30,7 +30,7 @@ I work in cybersecurity fields, especially penetration testings, security audits
 
 ----
 
-[![Visitor](https://visitor-badge-sczhou.glitch.me/badge?page_id=h4md153v63n/h4md153v63n)]
+[![Visitor](https://visitor-badge-sczhou.glitch.me/badge?page_id=h4md153v63n/h4md153v63n)][#]
 
 ![](https://komarev.com/ghpvc/?username=h4md153v63n&color=green)
 
