@@ -18,6 +18,7 @@
 ----
 
 ### Hi, I'm Hamdi Sevben
+![](https://komarev.com/ghpvc/?username=h4md153v63n&color=green)
 
 I work in cybersecurity fields, especially penetration testings, security audits and vulnerability assessments. In addition, I am a self-motivated, continuous learner and strong man who is used to work under the press and stress. Furthermore, I can pay attention to the details under the pressure. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
