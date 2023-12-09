@@ -34,7 +34,6 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
-----
 
 <tr> 
 <b>How to reach me?</b>
