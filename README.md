@@ -1,5 +1,5 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
----
+
 
 ### My Certificates:
 
@@ -17,7 +17,6 @@
 [<img src="https://cybertechacademy.az/wp-content/uploads/2021/08/ceh.jpg" width="7%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 [<img src="https://miro.medium.com/v2/resize:fit:620/format:webp/0*pNYwvYhSJ66CiI_F" width="12%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
-----
 
 ### Hi, I'm H@mdi
 
@@ -30,9 +29,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 - 😄 Pronouns: he/him
 - 📚 My Blog
 
-----
 [![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
-
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 ----
