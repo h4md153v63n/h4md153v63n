@@ -28,9 +28,9 @@
 [<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="7.5%"/>](https://www.credly.com/badges/c69b7d37-b218-48b4-98a1-702e4e43ef62)
 [<img src="https://security.ine.com/wp-content/uploads/2023/08/eWPTX-1.png" width="5.5%"/>](https://www.credential.net/a0414535-ab71-4463-b622-2ac03d4bd92b)
 [<img src="https://security.ine.com/wp-content/uploads/2023/08/eMAPT-1.png" width="5.5%"/>](https://www.credential.net/adbd00d9-0fe9-49e5-a660-3f14891182dd)
-[<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/61dc0a4d5863499699bb729d/0x0.png" width="17%"/>](https://www.credential.net/ca89672f-05ca-4981-88b2-a297738371aa)
+[<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/61dc0a4d5863499699bb729d/0x0.png" width="15%"/>](https://www.credential.net/ca89672f-05ca-4981-88b2-a297738371aa)
 [<img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*LMP0uK8TEC6sZV2v.png" width="10%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9D7yyEteiQFwuD6_pS2RIQ.png)
-[<img src="https://cybertechacademy.az/wp-content/uploads/2021/08/ceh.jpg" width="9.5%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
+[<img src="https://cybertechacademy.az/wp-content/uploads/2021/08/ceh.jpg" width="8%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 [<img src="https://miro.medium.com/v2/resize:fit:620/format:webp/0*pNYwvYhSJ66CiI_F" width="10%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
 ----
