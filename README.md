@@ -21,11 +21,8 @@
           <b>📫 Certificates:</b>
 </tr>
 
-[<img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blte92616127ffc3f86/63c71c14d1f34304558a3621/GPEN.png" width="7.5%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
-
+[<img src="https://images.credly.com/size/680x680/images/394a708e-5858-4a2c-89ff-407fc4c34509/image.png" width="7.5%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
 [<img src="https://images.credly.com/size/680x680/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" width="7.5%"/>](https://www.credly.com/badges/3cb06a17-66b1-49d2-bc19-6867d99c2841)
-
-
 [<img src="https://cybertechacademy.az/wp-content/uploads/2021/08/ceh.jpg" width="7.5%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 
 
