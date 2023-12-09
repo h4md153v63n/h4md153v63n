@@ -22,7 +22,7 @@
 </tr>
 
 [<img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blte92616127ffc3f86/63c71c14d1f34304558a3621/GPEN.png" width="7.5%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
-[<img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blte92616127ffc3f86/63c71c14d1f34304558a3621/GPEN.png" width="7.5%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
+[<img src="https://cybertechacademy.az/wp-content/uploads/2021/08/ceh.jpg" width="7.5%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 
 
 ----
