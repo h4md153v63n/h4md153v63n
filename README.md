@@ -13,9 +13,9 @@
 [<img src="https://miro.medium.com/v2/resize:fit:558/format:webp/0*JIxAIvLe4Xq8xDEF.png" width="7.5%"/>](https://www.credential.net/a0414535-ab71-4463-b622-2ac03d4bd92b)
 [<img src="https://miro.medium.com/v2/resize:fit:558/format:webp/0*E6IhWnqoD9FUVO6h.png" width="7.5%"/>](https://www.credential.net/adbd00d9-0fe9-49e5-a660-3f14891182dd)
 [<img src="https://miro.medium.com/v2/resize:fit:450/format:webp/1*baXLCoHGBsWLgo6gCjY0Og.jpeg" width="10%"/>](https://www.credential.net/ca89672f-05ca-4981-88b2-a297738371aa)
-[<img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*LMP0uK8TEC6sZV2v.png" width="13%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9D7yyEteiQFwuD6_pS2RIQ.png)
+[<img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*LMP0uK8TEC6sZV2v.png" width="16%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9D7yyEteiQFwuD6_pS2RIQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*u4VmcpLPsiLPJVxV.jpg" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
-[<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="16%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
+[<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
 
 ### Hi, I'm H@mdi
