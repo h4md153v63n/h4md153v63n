@@ -2,7 +2,7 @@
 ---
 
 <tr> 
-          <b>📫 Certificates:</b>
+          📫 ## Certificates:
 </tr>
 
 [<img src="https://www.aminbohio.com/cpsa.png" width="11%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
