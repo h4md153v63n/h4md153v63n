@@ -17,6 +17,15 @@
 
 ----
 
+<tr> 
+          <b>📫 Certificates:</b>
+</tr>
+
+[<img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blte92616127ffc3f86/63c71c14d1f34304558a3621/GPEN.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
+
+
+----
+
 ### Hi, I'm Hamdi Sevben
 
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
