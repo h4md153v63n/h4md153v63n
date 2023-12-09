@@ -53,4 +53,3 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 <p align="right">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
-----
