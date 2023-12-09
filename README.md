@@ -38,7 +38,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 ----
 
 <tr> 
-          <b>📫 How to reach me:</b>
+<b>How to reach me:</b>
 </tr>
 
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
