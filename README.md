@@ -2,7 +2,7 @@
 ---
 
 <tr> 
-           <b><img src="https://github.com/h4md153v63n/h4md153v63n/assets/5091265/7e965721-7ee0-4ea4-94bf-c9ab128c7a98" width="5%"/>()My Certificates:</b> 
+           <b><img src="https://github.com/h4md153v63n/h4md153v63n/assets/5091265/7e965721-7ee0-4ea4-94bf-c9ab128c7a98" width="5%"/> My Certificates:</b> 
 
 </tr>
 
