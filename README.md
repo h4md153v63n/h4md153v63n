@@ -21,7 +21,7 @@
           <b>📫 Certificates:</b>
 </tr>
 
-[<img src="https://www.aminbohio.com/cpsa.png" width="7.5%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
+[<img src="https://www.aminbohio.com/cpsa.png" width="10.5%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://images.credly.com/size/680x680/images/394a708e-5858-4a2c-89ff-407fc4c34509/image.png" width="7.5%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
 [<img src="https://images.credly.com/size/680x680/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" width="8.5%"/>](https://www.credly.com/badges/3cb06a17-66b1-49d2-bc19-6867d99c2841)
 [<img src="https://secops.group/wp-content/uploads/elementor/thumbs/Certified-AppSec-Practitioner-q02kehzew7km5nxnno1uz02wib0r8m1258po5d9gg0.png" width="7.5%"/>](https://web.archive.org/web/20221227215458/https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXRPqNbupyorLkwlhIqbcThnOAu5jqvURFFDhlSu3jvcxF0S98CtuNMm022kobwloGUW8PzH3rOL5dVSk0EFx1/U=)
