@@ -5,7 +5,7 @@
 
 <tr> <b> </b></tr>
 
-[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="12%"/>](https://lnkd.in/dZBm3fzx)
+[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://lnkd.in/dZBm3fzx)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*uB0nnk553tbsRxo3.png" width="12%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*0hS9F8hYLnSTzEk6.png" width="10%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*ebb5qNU5pDDDQY0R.png" width="11%"/>](https://www.credly.com/badges/3cb06a17-66b1-49d2-bc19-6867d99c2841)
