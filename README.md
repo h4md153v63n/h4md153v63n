@@ -21,7 +21,7 @@
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
 
-### Hi, I'm H@mdi
+### 👨🏻‍💻 &nbsp;Hi, I'm H@mdi
 
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
