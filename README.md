@@ -31,7 +31,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 
 ### 🔎 CVEs: 🎯
-|S.No|CVE Number|Vulnerability|
+|Sequence Number|CVE Number|Vulnerability|
 |---|---|---|
 |11|[CVE-2023-7124](https://github.com/h4md153v63n/CVEs/blob/main/E-commerce_Site/E-commerce_Site-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
 |10|[CVE-2023-7111](https://github.com/h4md153v63n/CVEs/blob/main/Library-Management-System/Library-Management-System_SQL_Injection-3.md)|Sql Injection|
