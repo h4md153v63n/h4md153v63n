@@ -1,11 +1,9 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
-
-
-[![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
-
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4md153v63n&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="h4md153v63n" /> </p>
-
-
+<br>
+<br>
 ### 👨🏻‍💻 &nbsp;Hi, I'm H@mdi
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 - 👋 Hi, I’m H@mdi
@@ -14,11 +12,12 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 - 💞️ I’m looking to learn more about Hacking.
 - 😄 Pronouns: he/him
 - 📚 My Blog
-
-
+<br>
+<br>
 ### 🎓 My Certificates: 🎯
 <tr> <b> </b></tr>
-
+<br>
+<br>
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*uB0nnk553tbsRxo3.png" width="12%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b6T77ecw1ZKCDv6Pw5J-0g.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=&trk=public_profile_see-credential)
@@ -33,8 +32,8 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*LMP0uK8TEC6sZV2v.png" width="14%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9D7yyEteiQFwuD6_pS2RIQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*u4VmcpLPsiLPJVxV.jpg" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
-
-
+<br>
+<br>
 ### 🔎 [CVEs:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
 |---|---|---|
@@ -49,15 +48,18 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 |03|[CVE-2022-40348](https://github.com/h4md153v63n/CVE-2022-40348_Intern-Record-System-Cross-site-Scripting-V1.0-Vulnerability-Unauthenticated)|Stored XSS|
 |02|[CVE-2022-40347](https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated)|Sql Injection|
 |01|[CVE-2022-40032 ](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated)|Sql Injection|
-
-
+<br>
+<br>
+[![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
+<br>
+<br>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
-
-
+<br>
+<br>
 <tr> 
 <b>How to reach me?</b>
 </tr>
-
+<br>
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://bit.ly/3JNmXkK)
@@ -68,7 +70,6 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://bit.ly/3hUvENM)
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://bit.ly/35Ypzh5)
 [<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://bit.ly/3juH37D)
-
+<br>
 <p align="right">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-
