@@ -30,7 +30,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
 
-### 🔎 CVEs:
+### 🔎 CVEs: 🎯
 + [CVE-2023-7124](https://github.com/h4md153v63n/CVEs/blob/main/E-commerce_Site/E-commerce_Site-Reflected_Cross_Site_Scripting.md)
 + [CVE-2023-7111](https://github.com/h4md153v63n/CVEs/blob/main/Library-Management-System/Library-Management-System_SQL_Injection-3.md)
 + [CVE-2023-7110](https://github.com/h4md153v63n/CVEs/blob/main/Library-Management-System/Library-Management-System_SQL_Injection-2.md)
