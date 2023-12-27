@@ -10,6 +10,7 @@
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b6T77ecw1ZKCDv6Pw5J-0g.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=&trk=public_profile_see-credential)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*0hS9F8hYLnSTzEk6.png" width="10%"/>](https://www.credly.com/badges/8ef5abd8-ad73-47cf-a8d5-1a03afaca09c)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*ebb5qNU5pDDDQY0R.png" width="11%"/>](https://www.credly.com/badges/3cb06a17-66b1-49d2-bc19-6867d99c2841)
+[<img src="https://images.credly.com/size/680x680/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png" width="11%"/>](https://www.credly.com/users/hamdi-sevben/badges)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ipLmFG55g7p3rP5g.png" width="10.5%"/>](https://web.archive.org/web/20221227215458/https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXRPqNbupyorLkwlhIqbcThnOAu5jqvURFFDhlSu3jvcxF0S98CtuNMm022kobwloGUW8PzH3rOL5dVSk0EFx1/U=)
 [<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*pfsODON5Jk-8VwcR.png" width="10%"/>](https://www.credly.com/badges/c69b7d37-b218-48b4-98a1-702e4e43ef62)
 [<img src="https://miro.medium.com/v2/resize:fit:558/format:webp/0*JIxAIvLe4Xq8xDEF.png" width="7.5%"/>](https://www.credential.net/a0414535-ab71-4463-b622-2ac03d4bd92b)
