@@ -69,3 +69,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 </a>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself) 😊
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm Zidan - aka TheCodingRocket 
+
+A Passionate Javascript programmer that is focused on making fun, exciting, and open-source coding projects, creating new technologies for others. 
