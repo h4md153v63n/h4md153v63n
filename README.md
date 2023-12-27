@@ -15,7 +15,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 <br>
 
-### 🎓 My Certificates: 🎯
+### 🎓 Certificates: 🎯
 <tr> <b> </b></tr>
 
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
@@ -33,8 +33,9 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*u4VmcpLPsiLPJVxV.jpg" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
+<br>
 
-### 🔎 [CVEs:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
+# 🔎 [CVEs:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
 |---|---|---|
 |11|[CVE-2023-7124](https://github.com/h4md153v63n/CVEs/blob/main/E-commerce_Site/E-commerce_Site-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
