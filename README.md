@@ -47,18 +47,12 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 
 #
-
 [![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
-
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 #
-
-<tr> 
-<b>How to reach me?</b>
-</tr>
-
+How to reach me?
 [<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://bit.ly/3JNmXkK)
@@ -69,7 +63,6 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://bit.ly/3hUvENM)
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://bit.ly/35Ypzh5)
 [<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://bit.ly/3juH37D)
-
 
 <p align="right">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
