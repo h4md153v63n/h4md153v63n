@@ -12,11 +12,8 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 - 😄 Pronouns: he/him
 - 📚 My Blog
 
-<br>
 
 # 🎓 Certificates: 🎯
-<tr> <b> </b></tr>
-
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*uB0nnk553tbsRxo3.png" width="12%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b6T77ecw1ZKCDv6Pw5J-0g.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=&trk=public_profile_see-credential)
@@ -32,7 +29,6 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*u4VmcpLPsiLPJVxV.jpg" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
-<br>
 
 # 🔎 [CVEs:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
@@ -48,8 +44,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 |03|[CVE-2022-40348](https://github.com/h4md153v63n/CVE-2022-40348_Intern-Record-System-Cross-site-Scripting-V1.0-Vulnerability-Unauthenticated)|Stored XSS|
 |02|[CVE-2022-40347](https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated)|Sql Injection|
 |01|[CVE-2022-40032 ](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated)|Sql Injection|
-<br>
-<br>
+
 
 #
 
@@ -57,8 +52,9 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
-<br>
-<br>
+
+#
+
 <tr> 
 <b>How to reach me?</b>
 </tr>
