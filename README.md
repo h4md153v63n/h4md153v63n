@@ -1,6 +1,17 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 
 
+### 👨🏻‍💻 &nbsp;Hi, I'm H@mdi
+I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+
+- 👋 Hi, I’m H@mdi
+- 🔭 I’m currently working on Cyber Security
+- 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
+- 💞️ I’m looking to learn more about Hacking.
+- 😄 Pronouns: he/him
+- 📚 My Blog
+
+
 ### 🎓 My Certificates: 🎯
 
 <tr> <b> </b></tr>
@@ -19,18 +30,6 @@
 [<img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*LMP0uK8TEC6sZV2v.png" width="14%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9D7yyEteiQFwuD6_pS2RIQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*u4VmcpLPsiLPJVxV.jpg" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
-
-
-### 👨🏻‍💻 &nbsp;Hi, I'm H@mdi
-
-I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
-
-- 👋 Hi, I’m H@mdi
-- 🔭 I’m currently working on Cyber Security
-- 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
-- 💞️ I’m looking to learn more about Hacking.
-- 😄 Pronouns: he/him
-- 📚 My Blog
 
 
 ### 🔎 CVEs:
