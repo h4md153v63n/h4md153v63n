@@ -3,7 +3,6 @@
 
 ### 👨🏻‍💻 &nbsp;Hi, I'm H@mdi
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
-
 - 👋 Hi, I’m H@mdi
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
@@ -13,7 +12,6 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 
 ### 🎓 My Certificates: 🎯
-
 <tr> <b> </b></tr>
 
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
