@@ -53,16 +53,16 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 ## How to reach me?
-[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%" align="right"/>](https://bit.ly/3juH37D)
-[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%" align="right"/>](https://bit.ly/35Ypzh5)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%" align="right"/>](https://bit.ly/3hUvENM)
-[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%" align="right"/>](https://bit.ly/3wJAhTH)
-[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%" align="right"/>](https://bit.ly/34uRgNA)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" align="right"/>](https://bit.ly/3hXDWV6)
-[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%" align="right"/>](https://bit.ly/394wuGt)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%" align="right"/>](https://bit.ly/3JNmXkK)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" align="right"/>](https://bit.ly/34BKvtC)
-[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%" align="right"/>](https://bit.ly/3DZiDN1)
+[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" align="right" width="3.5%"/>](https://bit.ly/3juH37D)
+[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" align="right" width="3.5%"/>](https://bit.ly/35Ypzh5)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png"  align="right" width="3.5%"/>](https://bit.ly/3hUvENM)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" align="right" width="3.5%"/>](https://bit.ly/3wJAhTH)
+[<img src="https://img.icons8.com/color/48/000000/youtube.png" align="right" width="3.5%"/>](https://bit.ly/34uRgNA)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" align="right" width="3.5%"/>](https://bit.ly/3hXDWV6)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" align="right" width="3.5%"/>](https://bit.ly/394wuGt)
+[<img src="https://img.icons8.com/color/48/000000/github.png" align="right" width="3.5%"/>](https://bit.ly/3JNmXkK)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" align="right" width="3.5%"/>](https://bit.ly/34BKvtC)
+[<img src="https://img.icons8.com/color/344/linktree.png" align="right" width="3.5%"/>](https://bit.ly/3DZiDN1)
 
 
 <p align="left">
