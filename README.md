@@ -47,9 +47,9 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 |01|[CVE-2022-40032 ](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated)|Sql Injection|
 
 
-# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
+# 
 [![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
-
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 ## How to reach me?
