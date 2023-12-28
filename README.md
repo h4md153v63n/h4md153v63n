@@ -3,7 +3,10 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 
 
-### 👨🏻‍💻 Hi, I'm H@mdi
+### 👨🏻‍💻 
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm H@mdi </strong></h1>
+
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 - 👋 Hi, I’m H@mdi
 - 🔭 I’m currently working on Cyber Security
@@ -71,4 +74,3 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself) 😊
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"> <em><b>Let me know a skill you've learned this week</b>
