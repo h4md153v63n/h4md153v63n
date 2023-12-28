@@ -3,7 +3,7 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px"><strong> Hi, I'm H@mdi </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> </h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px"><strong> Hi, I'm H@mdi </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h2>
 
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 - 👋  Hi, I’m H@mdi
@@ -62,7 +62,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="50"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊
 
-#
+# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
 [<img src="https://img.icons8.com/color/344/linktree.png" width="2%"/>](https://bit.ly/3DZiDN1)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="2%"/>](https://bit.ly/3JNmXkK)
