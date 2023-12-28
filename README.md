@@ -49,8 +49,10 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 # 
 [![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
 
 ## How to reach me?
 <p align="left">
