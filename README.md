@@ -60,6 +60,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="50"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊
 
+###
 [<img align="left" src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="2%"/>](https://bit.ly/3juH37D)
 [<img align="left" src="https://img.icons8.com/color/344/sladeshare--v1.png" width="2%"/>](https://bit.ly/35Ypzh5)
 [<img align="left" src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM)
