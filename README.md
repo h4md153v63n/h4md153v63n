@@ -3,18 +3,18 @@
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm H@mdi </strong><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm H@mdi </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h2>
 
 I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 - 👋  Hi, I’m H@mdi
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">I’m currently working on Cyber Security 
+- <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20">I’m currently working on Cyber Security 
 - 🔭  I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
 - 💞️  I’m looking to learn more about Hacking.
 - 😄  Pronouns: he/him
 - 📚  My Blog
 
 
-# 🎓 Certificates: 🎯
+# 🎓 Certificates: <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*uB0nnk553tbsRxo3.png" width="12%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b6T77ecw1ZKCDv6Pw5J-0g.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=&trk=public_profile_see-credential)
