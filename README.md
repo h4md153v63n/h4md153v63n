@@ -61,13 +61,13 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="50"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊
 
 ###
-<p align="right">[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="2%"/>](https://bit.ly/3juH37D)
-<p align="right">[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="2%"/>](https://bit.ly/35Ypzh5)
-<p align="right">[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM)
-<p align="right">[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="2%"/>](https://bit.ly/3wJAhTH)
-<p align="right">[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="2%"/>](https://bit.ly/34uRgNA)
-<p align="right">[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="2%"/>](https://bit.ly/3hXDWV6)
-<p align="right">[<img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/>](https://bit.ly/394wuGt)
-<p align="right">[<img src="https://img.icons8.com/color/48/000000/github.png" width="2%"/>](https://bit.ly/3JNmXkK)
-<p align="right">[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2%"/>](https://bit.ly/34BKvtC)
-<p align="right">[<img src="https://img.icons8.com/color/344/linktree.png" width="2%"/>](https://bit.ly/3DZiDN1)
+<p align="right">[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="2%"/>](https://bit.ly/3juH37D)</p>
+<p align="right">[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="2%"/>](https://bit.ly/35Ypzh5)</p>
+<p align="right">[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM)</p>
+<p align="right">[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="2%"/>](https://bit.ly/3wJAhTH)</p>
+<p align="right">[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="2%"/>](https://bit.ly/34uRgNA)</p>
+<p align="right">[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="2%"/>](https://bit.ly/3hXDWV6)</p>
+<p align="right">[<img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/>](https://bit.ly/394wuGt)</p>
+<p align="right">[<img src="https://img.icons8.com/color/48/000000/github.png" width="2%"/>](https://bit.ly/3JNmXkK)</p>
+<p align="right">[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2%"/>](https://bit.ly/34BKvtC)</p>
+<p align="right">[<img src="https://img.icons8.com/color/344/linktree.png" width="2%"/>](https://bit.ly/3DZiDN1)</p>
