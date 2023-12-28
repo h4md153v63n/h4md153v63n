@@ -53,6 +53,11 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 ## How to reach me?
+<p align="left">
+<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JoQloQa.md.png"  alt="buymeacoffee-blue-badge" style="width: 180px;">
+</a>
+
 [<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" align="right" width="3%"/>](https://bit.ly/3juH37D)
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" align="right" width="3%"/>](https://bit.ly/35Ypzh5)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png"  align="right" width="3%"/>](https://bit.ly/3hUvENM)
@@ -64,12 +69,4 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" align="right" width="3%"/>](https://bit.ly/34BKvtC)
 [<img src="https://img.icons8.com/color/344/linktree.png" align="right" width="3%"/>](https://bit.ly/3DZiDN1)
 
-
-<p align="left">
-<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
-  <img src="https://iili.io/JoQloQa.md.png"  alt="buymeacoffee-blue-badge" style="width: 180px;">
-</a>
-
-
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="50"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊
-
