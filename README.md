@@ -64,7 +64,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://bit.ly/35Ypzh5)
 [<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://bit.ly/3juH37D)
 
-<p align="left">
+<p align="center">
 <a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
   <img src="https://iili.io/JoQloQa.md.png"  alt="buymeacoffee-blue-badge" style="width: 180px;">
 </a>
