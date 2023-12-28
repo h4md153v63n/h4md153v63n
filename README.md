@@ -48,7 +48,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 
 
 # 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#)
 
