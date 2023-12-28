@@ -70,5 +70,5 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 </a>
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself) 😊
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊
 
