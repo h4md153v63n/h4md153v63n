@@ -32,7 +32,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lypM5jJXoZHhCZdX2kqFcA.png" width="17%"/>](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z8I8uIbX7Okv8xRcZhu27Q.png)
 
 
-# 🔎 [CVE's:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯 <img src="https://media.giphy.com/media/geftCVA3NFRKw/giphy.gif" width="90px">
+# 🔎 [CVE's:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
 |---|---|---|
 |28|[CVE-2023-7149](https://github.com/h4md153v63n/CVEs/blob/main/QR_Code_Generator/QR_Code_Generator-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
