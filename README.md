@@ -53,7 +53,16 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=h4md153v63n&show_icons=true&theme=dark) 
 
 ## How to reach me?
-[<img align="right" src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3%"/>](https://bit.ly/3juH37D)[<img align="right" src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3%"/>](https://bit.ly/35Ypzh5)[<img align="right" src="https://img.icons8.com/color/48/000000/facebook.png" width="3%"/>](https://bit.ly/3hUvENM) [<img align="right" src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3%"/>](https://bit.ly/3wJAhTH) [<img align="right" src="https://img.icons8.com/color/48/000000/youtube.png" width="3%"/>](https://bit.ly/34uRgNA) [<img align="right" src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://bit.ly/3hXDWV6) [<img align="right" src="https://img.icons8.com/color/48/000000/medium.png" width="3%"/>](https://bit.ly/394wuGt) [<img align="right" src="https://img.icons8.com/color/48/000000/github.png" width="3%"/>](https://bit.ly/3JNmXkK) [<img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://bit.ly/34BKvtC) [<img align="right" src="https://img.icons8.com/color/344/linktree.png" width="3%"/>](https://bit.ly/3DZiDN1)
+[<img align="right" src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="2%"/>](https://bit.ly/3juH37D)
+[<img align="right" src="https://img.icons8.com/color/344/sladeshare--v1.png" width="2%"/>](https://bit.ly/35Ypzh5)
+[<img align="right" src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM)
+[<img align="right" src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="2%"/>](https://bit.ly/3wJAhTH)
+[<img align="right" src="https://img.icons8.com/color/48/000000/youtube.png" width="2%"/>](https://bit.ly/34uRgNA)
+[<img align="right" src="https://img.icons8.com/color/48/000000/twitter.png" width="2%"/>](https://bit.ly/3hXDWV6)
+[<img align="right" src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/>](https://bit.ly/394wuGt)
+[<img align="right" src="https://img.icons8.com/color/48/000000/github.png" width="2%"/>](https://bit.ly/3JNmXkK)
+[<img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width="2%"/>](https://bit.ly/34BKvtC)
+[<img align="right" src="https://img.icons8.com/color/344/linktree.png" width="2%"/>](https://bit.ly/3DZiDN1)
 
 <p align="left">
 <a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
