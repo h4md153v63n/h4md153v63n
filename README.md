@@ -60,7 +60,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 ## How to reach me?
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="50"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out [me](https://linktr.ee/hamdisevben) and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="50"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out [me](https://linktr.ee/hamdisevben) and introduce yourself (don’t just say hi, tell me about yourself)</b> </em> 😊 :coffee:
 
 <p align="left">
 <a href="https://buymeacoffee.com/hamdi.sevben" target="_blank" title="buymeacoffee">
