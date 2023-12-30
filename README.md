@@ -35,7 +35,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 # 🔎 [CVE's:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
 |---|---|---|
-|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️ CVE's Page](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
+|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️ Go to the All CVE's Page](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
 |28|[CVE-2023-7149](https://github.com/h4md153v63n/CVEs/blob/main/QR_Code_Generator/QR_Code_Generator-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
 |27|[CVE-2023-7143](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-Blind_Cross_Site_Scripting.md)|Blind XSS|
 |26|[CVE-2023-7142](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_6.md)|Sql Injection|
@@ -47,7 +47,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 |20|[CVE-2023-7136](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-2.md)|Blind XSS|
 |19|[CVE-2023-7135](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-1.md)|Blind XSS|
 |18|[CVE-2023-7132](https://github.com/h4md153v63n/CVEs/blob/main/Intern_Membership_Management_System/Intern_Membership_Management_System-Stored_Cross_site_Scripting.md)|Stored XSS|
-
+|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|...|...|
 
 # 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
@@ -67,6 +67,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
   <img src="https://iili.io/JoQloQa.md.png"  alt="buymeacoffee-blue-badge" style="width: 180px;">
 </a>
 
+<a href="https://www.buymeacoffee.com/app/hamdi.sevben"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hamdi.sevben&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 # 
 [<img src="https://img.icons8.com/color/344/linktree.png" width="1%"/>](https://bit.ly/3DZiDN1)
