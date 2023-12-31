@@ -67,6 +67,8 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
   <img src="https://iili.io/JoQloQa.md.png"  alt="buymeacoffee-blue-badge" style="width: 180px;">
 </a>
 
+<img align="right" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 
 # 
 [<img src="https://img.icons8.com/color/344/linktree.png" width="1%"/>](https://bit.ly/3DZiDN1)
