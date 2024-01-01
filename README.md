@@ -35,7 +35,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 # 🔎 [CVE's:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
 |---|---|---|
-|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️ Go to the All CVE's Page](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
+|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️ Go to the All CVE's Page](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️..............................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
 |28|[CVE-2023-7149](https://github.com/h4md153v63n/CVEs/blob/main/QR_Code_Generator/QR_Code_Generator-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
 |27|[CVE-2023-7143](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-Blind_Cross_Site_Scripting.md)|Blind XSS|
 |26|[CVE-2023-7142](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_6.md)|Sql Injection|
