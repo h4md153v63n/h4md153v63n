@@ -47,7 +47,7 @@ I work in IT world and cybersecurity fields, especially penetration testings, se
 |20|[CVE-2023-7136](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-2.md)|Blind XSS|
 |19|[CVE-2023-7135](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-1.md)|Blind XSS|
 |18|[CVE-2023-7132](https://github.com/h4md153v63n/CVEs/blob/main/Intern_Membership_Management_System/Intern_Membership_Management_System-Stored_Cross_site_Scripting.md)|Stored XSS|
-|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[.................................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[.................................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
+|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[......................................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[.................................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
 
 # 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
