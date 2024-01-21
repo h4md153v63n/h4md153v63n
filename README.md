@@ -6,7 +6,10 @@
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px"><strong> Hi, I'm H@mdi </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h2>
 
-I work in IT world and cybersecurity fields, especially penetration testings, security audits, vulnerability assessments and defensive side for 15+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+I won Engineering 3 times, these are Computer Engineering, and the other two are Control & Automation Engineering and Astronautical Engineering at ITU. I completed only computer engineering at nights after working hours while working during the day because of life conditions.
+
+I work in IT and security fields many+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+
 - 👋  Hi, I’m H@mdi
 - <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> I’m currently working on Cyber Security 
 - 🔭  I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
