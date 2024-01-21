@@ -6,7 +6,7 @@
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px"><strong> Hi, I'm H@mdi </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h2>
 
-I won Engineering 3 times, these are Computer Engineering, and the other two are Control & Automation Engineering and Astronautical Engineering at ITU. I completed only computer engineering at nights after working hours while working during the day because of life conditions.
+I won Engineering 3 times, these are Computer Engineering, and the other two are Control & Automation Engineering and Astronautical Engineering at ITU. I completed only Computer Engineering at nights after working hours while working during the day because of life conditions.
 
 I work in IT and security fields many+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
 
@@ -72,13 +72,13 @@ I work in IT and security fields many+ years. In addition, I am a self-motivated
 
 
 # 
-[<img src="https://img.icons8.com/color/344/linktree.png" width="1%"/>](https://bit.ly/3DZiDN1)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="1%"/>](https://bit.ly/34BKvtC)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="1%"/>](https://bit.ly/3JNmXkK)
-[<img src="https://img.icons8.com/color/48/000000/medium.png" width="1%"/>](https://bit.ly/394wuGt)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="1%"/>](https://bit.ly/3hXDWV6)
-[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="1%"/>](https://bit.ly/34uRgNA)
-[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="1%"/>](https://bit.ly/3wJAhTH)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="1%"/>](https://bit.ly/3hUvENM)
-[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="1%"/>](https://bit.ly/35Ypzh5)
-[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="1%"/>](https://bit.ly/3juH37D)
+[<img src="https://img.icons8.com/color/344/linktree.png" width="2%"/>](https://bit.ly/3DZiDN1)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2%"/>](https://bit.ly/34BKvtC)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="2%"/>](https://bit.ly/3JNmXkK)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/>](https://bit.ly/394wuGt)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="2%"/>](https://bit.ly/3hXDWV6)
+[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="2%"/>](https://bit.ly/34uRgNA)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="2%"/>](https://bit.ly/3wJAhTH)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM)
+[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="2%"/>](https://bit.ly/35Ypzh5)
+[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="2%"/>](https://bit.ly/3juH37D)
