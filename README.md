@@ -78,7 +78,7 @@ I work in IT and security fields many+ years. In addition, I am a self-motivated
 [<img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/>](https://bit.ly/394wuGt)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="2%"/>](https://bit.ly/3hXDWV6)
 [<img src="https://img.icons8.com/color/48/000000/youtube.png" width="2%"/>](https://bit.ly/34uRgNA)
-[<img src="https://twitter.com/hackthebox_eu/photo" width="10%"/>](https://bit.ly/42x4ovk)
+[<img src="https://pbs.twimg.com/profile_images/1742924846479429632/7IxtXQ6x_400x400.jpg" width="10%"/>](https://bit.ly/42x4ovk)
 [<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="2%"/>](https://bit.ly/3wJAhTH)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM)
 [<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="2%"/>](https://bit.ly/35Ypzh5)
