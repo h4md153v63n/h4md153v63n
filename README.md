@@ -1,17 +1,17 @@
 <!-- [![](https://visitor-badge.laobi.icu/badge?page_id=h4md153v63n.h4md153v63n)](#) -->
 
 
-[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://bit.ly/3DZiDN1)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://bit.ly/34BKvtC)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://bit.ly/3JNmXkK)
-[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://bit.ly/394wuGt)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://bit.ly/3hXDWV6)
-[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](https://bit.ly/34uRgNA)
-[<img src="https://pbs.twimg.com/profile_images/1742924846479429632/7IxtXQ6x_400x400.jpg" width="4%"/>](https://bit.ly/42x4ovk)
-[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://bit.ly/3wJAhTH)
-[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://bit.ly/35Ypzh5)
-[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://bit.ly/3juH37D)
-<!-- [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM) -->
+[<img src="https://img.icons8.com/color/344/linktree.png" width="3.5%"/>](https://linktr.ee/hamdisevben)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://tr.linkedin.com/in/hamdisevben)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/h4md153v63n)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://hamdisevben.medium.com)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/h4md153v63n)
+[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](https://www.youtube.com/channel/UCO3GStB1UtVgt_DrtjH23XA/videos)
+[<img src="https://pbs.twimg.com/profile_images/1742924846479429632/7IxtXQ6x_400x400.jpg" width="4%"/>](https://app.hackthebox.com/profile/184261)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://tryhackme.com/p/h4md153v63n)
+[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3.5%"/>](https://www.slideshare.net/hamdi_sevben)
+[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3.5%"/>](https://www.duolingo.com/profile/h4md153v63n)
+<!-- [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://www.facebook.com/hamdisevben) -->
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=h4md153v63n&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="h4md153v63n" /> </p>
