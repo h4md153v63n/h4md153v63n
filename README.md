@@ -2,6 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4md153v63n&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="h4md153v63n" /> </p>
 
+# 
+[<img src="https://img.icons8.com/color/344/linktree.png" width="3%"/>](https://bit.ly/3DZiDN1)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://bit.ly/34BKvtC)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3%"/>](https://bit.ly/3JNmXkK)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3%"/>](https://bit.ly/394wuGt)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://bit.ly/3hXDWV6)
+[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3%"/>](https://bit.ly/34uRgNA)
+[<img src="https://pbs.twimg.com/profile_images/1742924846479429632/7IxtXQ6x_400x400.jpg" width="3.5%"/>](https://bit.ly/42x4ovk)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3%"/>](https://bit.ly/3wJAhTH)
+[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3%"/>](https://bit.ly/35Ypzh5)
+[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3%"/>](https://bit.ly/3juH37D)
+<!-- [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM) -->
+
 
 ![--](https://github.com/h4md153v63n/h4md153v63n/blob/main/oie_ft3HoVLd24pY.png)
 
@@ -69,18 +82,4 @@ I work in IT and security fields many+ years. In addition, I am a self-motivated
 <a href="https://buymeacoffee.com/hamdi.sevben" target="_blank" title="buymeacoffee">
   <img src="https://iili.io/JoQloQa.md.png"  alt="buymeacoffee-blue-badge" style="width: 180px;">
 </a>
-
-
-# 
-[<img src="https://img.icons8.com/color/344/linktree.png" width="3%"/>](https://bit.ly/3DZiDN1)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://bit.ly/34BKvtC)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="3%"/>](https://bit.ly/3JNmXkK)
-[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3%"/>](https://bit.ly/394wuGt)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://bit.ly/3hXDWV6)
-[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3%"/>](https://bit.ly/34uRgNA)
-[<img src="https://pbs.twimg.com/profile_images/1742924846479429632/7IxtXQ6x_400x400.jpg" width="3.5%"/>](https://bit.ly/42x4ovk)
-[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3%"/>](https://bit.ly/3wJAhTH)
-[<img src="https://img.icons8.com/color/344/sladeshare--v1.png" width="3%"/>](https://bit.ly/35Ypzh5)
-[<img src="https://img.icons8.com/bubbles/344/duolingo-logo.png" width="3%"/>](https://bit.ly/3juH37D)
-<!-- [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="2%"/>](https://bit.ly/3hUvENM) -->
 
