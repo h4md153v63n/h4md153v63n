@@ -24,7 +24,13 @@
 
 I won Engineering 3X times, these are Computer Engineering, and the other two are Control & Automation Engineering and Astronautical Engineering at ITU. I completed only Computer Engineering at nights after working hours while working during the day because of life conditions.
 
-I work in IT and security fields many+ years. In addition, I am a self-motivated and continuous learner. Furthermore, I can pay attention to the details. I am gritty and willing to be challenged in order to improve more hacking skills. My aim is to use my technical knowledge so as to benefit other people and organizations.
+With many years of experience in IT and security fields, I have honed my skills and knowledge, continuously adapting to new technologies and emerging threats. My self-motivation and passion for learning drive me to stay updated with the latest developments in the industry.
+
+One of my key strengths is my attention to detail, allowing me to meticulously analyze complex problems and find effective solutions. I thrive in challenging environments and embrace opportunities to enhance my hacking skills, demonstrating resilience and determination to overcome obstacles.
+
+My ultimate goal is to leverage my technical knowledge and expertise to make a positive impact on others and organizations. Whether it's by securing systems and networks, developing innovative solutions, or providing guidance and support, I am dedicated to using my skills for the greater good.
+
+In summary, my journey in engineering and IT has shaped me into a versatile professional with a strong foundation in technology and a drive for continuous improvement. I am committed to contributing to the advancement of cybersecurity and making a meaningful difference in the lives of others.
 
 - 👋  Hi, I’m H@mdi
 - <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> I’m currently working on Cyber Security 
