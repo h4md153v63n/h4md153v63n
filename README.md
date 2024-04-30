@@ -41,6 +41,7 @@ In summary, my journey in engineering and IT has shaped me into a versatile prof
 
 
 # <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">Certificates: 🎓
+[<img src="https://miro.medium.com/v2/resize:fit:300/format:webp/0*Jf4rdR8PPm4bel9x.png" width="10%"/>](https://labs.cyberwarfare.live/badge/image/6630849d0dcca27bccbc6c74)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*uB0nnk553tbsRxo3.png" width="12%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b6T77ecw1ZKCDv6Pw5J-0g.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=&trk=public_profile_see-credential)
