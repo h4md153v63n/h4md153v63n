@@ -32,6 +32,8 @@ My ultimate goal is to leverage my technical knowledge and expertise to make a p
 
 In summary, my journey in engineering and IT has shaped me into a versatile professional with a strong foundation in technology and a drive for continuous improvement. I am committed to contributing to the advancement of cybersecurity and making a meaningful difference in the lives of others.
 
+In the light of local sectoral challenges, I am open to collaboration and knowledge exchange with international peers. I believe in the power of global networking to address common issues and drive innovation. By establishing connections with foreign counterparts, I aim to contribute to the collective advancement of the IT and security sectors on a global scale.
+
 - 👋  Hi, I’m H@mdi
 - <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> I’m currently working on Cyber Security 
 - 🔭  I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
