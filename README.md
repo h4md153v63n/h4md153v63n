@@ -65,19 +65,16 @@ In the light of local sectoral challenges, I am open to collaboration and knowle
 # 🔎 [CVE's:](https://github.com/h4md153v63n/CVEs/blob/main/README.md) 🎯
 |S.N|CVE Number|Vulnerability|
 |---|---|---|
-|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️ Go to the All CVE's Page](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️...........................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
+|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️All CVE's](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[➡️...](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
 |28|[CVE-2023-7149](https://github.com/h4md153v63n/CVEs/blob/main/QR_Code_Generator/QR_Code_Generator-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
 |27|[CVE-2023-7143](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-Blind_Cross_Site_Scripting.md)|Blind XSS|
 |26|[CVE-2023-7142](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_6.md)|Sql Injection|
-|25|[CVE-2023-7141](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_5.md)|Sql Injection|
-|24|[CVE-2023-7140](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_4.md)|Sql Injection|
-|23|[CVE-2023-7139](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_3.md)|Sql Injection|
-|22|[CVE-2023-7138](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_2.md)|Sql Injection|
-|21|[CVE-2023-7137](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_1.md)|Sql Injection|
-|20|[CVE-2023-7136](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-2.md)|Blind XSS|
+|...|[...|...|
+|...|[...|...|
+|...|[...|...|
 |19|[CVE-2023-7135](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-1.md)|Blind XSS|
 |18|[CVE-2023-7132](https://github.com/h4md153v63n/CVEs/blob/main/Intern_Membership_Management_System/Intern_Membership_Management_System-Stored_Cross_site_Scripting.md)|Stored XSS|
-|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[.........................................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[.................................................](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
+|[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[...](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[...](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
 
 # 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
