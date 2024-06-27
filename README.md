@@ -69,9 +69,9 @@ In the light of local sectoral challenges, I am open to collaboration and knowle
 |28|[CVE-2023-7149](https://github.com/h4md153v63n/CVEs/blob/main/QR_Code_Generator/QR_Code_Generator-Reflected_Cross_Site_Scripting.md)|Reflected XSS|
 |27|[CVE-2023-7143](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-Blind_Cross_Site_Scripting.md)|Blind XSS|
 |26|[CVE-2023-7142](https://github.com/h4md153v63n/CVEs/blob/main/Client_Details_System/Client_Details_System-SQL_Injection_6.md)|Sql Injection|
-|...|[...|...|
-|...|[...|...|
-|...|[...|...|
+|...|...|...|
+|...|...|...|
+|...|...|...|
 |19|[CVE-2023-7135](https://github.com/h4md153v63n/CVEs/blob/main/Record_Management_System/Record_Management_System-Blind_Cross_Site_Scripting-1.md)|Blind XSS|
 |18|[CVE-2023-7132](https://github.com/h4md153v63n/CVEs/blob/main/Intern_Membership_Management_System/Intern_Membership_Management_System-Stored_Cross_site_Scripting.md)|Stored XSS|
 |[➡️](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[...](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|[...](https://github.com/h4md153v63n/CVEs/blob/main/README.md)|
