@@ -43,7 +43,7 @@ In the light of local sectoral challenges, I am open to collaboration and knowle
 
 
 # <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">Certificates: 🎓
-[<img src="https://media.licdn.com/dms/image/D4D22AQFBTHTcO9XFUQ/feedshare-shrink_800/0/1719875534969?e=1722470400&v=beta&t=lzpw672WKAccTp_peCnCZ39fbCpvDah2ZS604NR_jt8" width="10.5%"/>](https://credentials.securityinstitute.com/89372401-4b5e-43fc-9392-4d4837eec34f)
+[<img src="https://media.licdn.com/dms/image/D4D22AQFBTHTcO9XFUQ/feedshare-shrink_800/0/1719875534969?e=1722470400&v=beta&t=lzpw672WKAccTp_peCnCZ39fbCpvDah2ZS604NR_jt8" width="12%"/>](https://credentials.securityinstitute.com/89372401-4b5e-43fc-9392-4d4837eec34f)
 [<img src="https://images.credly.com/size/680x680/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" width="10.5%"/>](https://www.credly.com/badges/486d939e-b089-4123-bd34-eb9e1876c5c8)
 [<img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="10%"/>](https://www.credly.com/badges/9a4b49d8-b0cf-4048-8817-2bbb7e6a871a)
 [<img src="https://miro.medium.com/v2/resize:fit:300/format:webp/0*Jf4rdR8PPm4bel9x.png" width="10%"/>](https://labs.cyberwarfare.live/badge/image/6630849d0dcca27bccbc6c74)
