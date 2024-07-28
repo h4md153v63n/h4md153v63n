@@ -43,6 +43,7 @@ In the light of local sectoral challenges, I am open to collaboration and knowle
 
 
 # <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">Certificates: 🎓
+[<img src="https://images.credly.com/size/680x680/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png" width="10.5%"/>](https://www.credly.com/badges/65ac18d4-7087-4cac-a8c1-2e44862f164e)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*QiV0eQ5bJg4ahkocJAxBig.png" width="8%"/>](https://app.kajabi.com/certificates/be3a2597)
 [<img src="https://media.licdn.com/dms/image/D4D22AQFBTHTcO9XFUQ/feedshare-shrink_800/0/1719875534969?e=1722470400&v=beta&t=lzpw672WKAccTp_peCnCZ39fbCpvDah2ZS604NR_jt8" width="12%"/>](https://credentials.securityinstitute.com/89372401-4b5e-43fc-9392-4d4837eec34f)
 [<img src="https://images.credly.com/size/680x680/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" width="10.5%"/>](https://www.credly.com/badges/486d939e-b089-4123-bd34-eb9e1876c5c8)
