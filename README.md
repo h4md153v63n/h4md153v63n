@@ -49,7 +49,7 @@ In the light of local sectoral challenges, I am open to collaboration and knowle
 [<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*pfsODON5Jk-8VwcR.png" width="10%"/>](https://www.credly.com/badges/c69b7d37-b218-48b4-98a1-702e4e43ef62)
 [<img src="https://miro.medium.com/v2/resize:fit:300/format:webp/0*Jf4rdR8PPm4bel9x.png" width="10%"/>](https://labs.cyberwarfare.live/badge/image/6630849d0dcca27bccbc6c74)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*QiV0eQ5bJg4ahkocJAxBig.png" width="8%"/>](https://app.kajabi.com/certificates/be3a2597)
-[<img src="https://media.licdn.com/dms/image/D4D22AQFBTHTcO9XFUQ/feedshare-shrink_800/0/1719875534969?e=1722470400&v=beta&t=lzpw672WKAccTp_peCnCZ39fbCpvDah2ZS604NR_jt8" width="12%"/>](https://credentials.securityinstitute.com/89372401-4b5e-43fc-9392-4d4837eec34f)
+[<img src="https://github.com/h4md153v63n/DefenSec/blob/main/1/WIRESHARK%20Level%20One.PNG" width="12%"/>](https://credentials.securityinstitute.com/89372401-4b5e-43fc-9392-4d4837eec34f)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XsiCi-lAaFEwv_-pJrGjWA.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=AZPI0/orrPXBnYOErCUDn3LKBE/9/nrmbbMDo26w5mY=)
 [<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*uB0nnk553tbsRxo3.png" width="12%"/>](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gDX2-HvLr3vwZx2C2eKldQ.png)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b6T77ecw1ZKCDv6Pw5J-0g.png" width="10%"/>](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=C6R7T9cjD6QlI6G9ykIgWBHp5ySh83vD5VxIAW4rXfI=&trk=public_profile_see-credential)
