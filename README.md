@@ -36,10 +36,11 @@ In the light of local sectoral challenges, I am open to collaboration and knowle
 
 - 👋  Hi, I’m H@mdi
 - <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> I’m currently working on Cyber Security 
-- 🔭  I’m interested in InfoSec, Pentests, Vulnerability Assessments, and more.
-- 💞️  I’m looking to learn more about Hacking.
+- 🔭  I’m interested in InfoSec, and more.
+- 💞️  I’m looking to learn more about more.
 - 😄  Pronouns: he/him
 - 📚  My Blog
+- 🔥  **"Post tenebras lux: Post tenebras spero lucem"**
 
 
 # <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">Certificates: 🎓
